@@ -31,6 +31,29 @@ nav {
 .hero-content {
     width: 80%;
 }
+.hire-me {
+    border: 1px solid red;
+}
+
+.hi-there {
+    /* border:1px white; */
+    width: 90px;
+    /* border-radius: 3px; */
+     /* padding-left:1rem; */
+    /* font-size: small; */
+    background-color:#FFFFFF;
+    color:#0779E4;
+    font-weight: bold;
+    /* height: 25px; */
+    /* padding-top: 5px; */
+    /* padding-right:2px ; */
+    text-align: center;
+     }
+
+     .my-name{
+        font-size: 3.5rem;
+        color: #FFFFFF;
+     }
 
 
 .bio {
